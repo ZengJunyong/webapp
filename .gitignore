@@ -1,5 +1,8 @@
 node_modules
 dist
 .tmp
-bower_components
+bower_components/chai
+bower_components/jquery
+bower_components/mocha
+bower_components/modernizr
 .idea
